@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hi, I’m Anurag Nigam</h1>
 <p align="center">👀 Frontend Developer with 2.5+ years of experience in developing scalable web and mobile applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragnigam091" alt="anurag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn091" alt="anurag" /> </p>
 
 - 🤔 I’m looking for help with **Angular, React, React Native, Backend and System Designs**
 
