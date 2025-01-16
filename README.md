@@ -3,7 +3,7 @@ anuraga091/anuraga091 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👋 Hi, I’m Anurag Nigam</h1>
-<p align="center">👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications.</h3>
+<p align="center">👀 Frontend Developer with 2.5+ years of experience in developing scalable web and mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragnigam091" alt="anurag" /> </p>
 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **early career and startups**
 
-- 📫 Reach me at **anuragnigam091@gmail.com**
+- 📫 Reach me at **me@anuragnigam.in**
 
 - 👨‍💻 Most of my projects are private, ping me on linkedin/email to know what I am working on.
 
@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anuragnigam091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"               alt="anuragnigam091"/></a>
-  <a href="https://twitter.com/anuragnigam091" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png" height="50" width="50" alt="anuragnigam091"/></a>
+  <a href="https://www.linkedin.com/in/anuragn091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"               alt="anuragn091"/></a>
+  <a href="https://twitter.com/anuragnigam_" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png" height="50" width="50" alt="anuragnigam_"/></a>
 </p>
 
 <h3 align="left">Programming Skills</h3>
