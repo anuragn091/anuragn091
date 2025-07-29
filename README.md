@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anuragn091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"               alt="anuragn091"/></a>
+  <a href="https://www.linkedin.com/in/anuraga091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"               alt="anuraga091"/></a>
   <a href="https://twitter.com/anuragnigam_" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png" height="50" width="50" alt="anuragnigam_"/></a>
 </p>
 
